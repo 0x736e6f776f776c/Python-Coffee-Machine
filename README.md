@@ -6,7 +6,7 @@ This is a program that represents a coffee machine. It's written in the programm
 1. First of all, clone this repository using the following command:
 
 ```
-$ git clone https://github.com/techsnowowl/Python-Coffee-Machine.git
+$ git clone https://github.com/0x736e6f776f776c/Python-Coffee-Machine.git
 ```
   
 2. After the repository is cloned, cd into the repository with the following command:
