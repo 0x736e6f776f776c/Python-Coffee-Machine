@@ -23,4 +23,4 @@ $ python3 Coffee.py
 
 **Enjoy ;)**
 
-**Transfered to new repository for privacy-related reasons, I originally made this project in 2018**
+**Transferred to a new repository for privacy-related reasons, I originally made this project in 2018**
