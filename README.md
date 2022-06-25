@@ -22,3 +22,5 @@ $ python3 Coffee.py
 ```
 
 **Enjoy ;)**
+
+**Project transferred to a new repository for privacy-related reasons, I originally made this project in 2018**
